@@ -1,4 +1,4 @@
-Deployed app: https://covid-19-tracker-70e86.web.app/
+**Deployed app:** https://covid-19-tracker-70e86.web.app/
 
 ## Available Scripts
 
